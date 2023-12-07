@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lhptechnologysolutions</groupId>
     <artifactId>lenoxhillpremedical</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>lenoxhillpremedical</name>
     <description>lenoxhillpremedical</description>
     <properties>
