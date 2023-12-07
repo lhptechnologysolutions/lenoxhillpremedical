@@ -8,6 +8,7 @@ public class LenoxhillpremedicalApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LenoxhillpremedicalApplication.class, args);
+        System.out.println("Hello World!");
     }
 
 }
